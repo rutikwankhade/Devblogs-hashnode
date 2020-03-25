@@ -160,6 +160,7 @@ If you type math in console, you will see there are so many built-in methods for
 The Math.random() function returns a floating-point, pseudo-random number in the range 0 to less than 1. See how it returns every time we call it in the console.
 
 
+![Screenshot (243).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1585151170351/FFMTnGRBt.png)
 
 
 But this is not what we want. We want a whole number and not a floating type. For this, the Math object provides another method called Math.floor()
