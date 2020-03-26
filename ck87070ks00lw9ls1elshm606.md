@@ -175,7 +175,7 @@ But Math.floor() is always rounding down to the nearest decimal, therefore, ever
 In order to get a random number between 0 to the length of our array, we will multiply the math.random() by quotes.length. 
 Finally the random index we want is 
 ```javascript
-let index=Math.floor(Math.random()*quotes.length;
+let index=Math.floor(Math.random()*quotes.length);
 <!--This will give a random quote-->
 quotes[index];
 ```
