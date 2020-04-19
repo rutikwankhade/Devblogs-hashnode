@@ -21,7 +21,7 @@ function sum(a,b){
 return a+b;
 }
 ```
-### Calling Functions
+  ### 📌 Calling Functions
 Defining a function does not execute it. Defining it simply names the function and specifies what to do when the function is called. Calling the function actually performs the specified actions with the indicated parameters. 
 
 ```javascript
@@ -29,16 +29,16 @@ Defining a function does not execute it. Defining it simply names the function a
 sum(5,3);
 //output : 8
 ```
-### Function Parameters 
+### 📌 Function Parameters 
 Parameters are input that gets passed into functions as names and behave as local variables. A function can have multiple parameters or no parameters at all.
 
-### Function arguments
+### 📌 Function arguments
 The argument is the actual value that gets passed into the function.
 
 ![functionblog1.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1587151140206/6UMKRMJdW.png)
 In function sum() a and b are parameters whereas 5 and 3 are arguments.
 
-### The return Statement
+### 📌 The return Statement
 A JavaScript function can have an optional return statement. This is required if you want to return a value from a function. This statement should be the last statement in a function.
 
 ## The function expression 
@@ -55,7 +55,7 @@ sum(5,3);
 
 Functions stored in variables do not need function names. They are always invoked (called) using the variable name. The function above ends with a semicolon because it is a part of an executable statement.
 
-#### Difference between function declaration and function expression
+### 📌 Difference between function declaration and function expression
 > 
 Function declarations are hoisted but function expressions are not. 
 
