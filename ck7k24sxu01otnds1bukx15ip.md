@@ -100,6 +100,12 @@ A collective list of free APIs for use in software and web development.  [visit 
 
 ![api.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1583677525710/2qqTY-VUe.png)
 
+### 📌awesome-technical-writing
+A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing. [visit repository](https://github.com/BolajiAyodeji/awesome-technical-writing)
+
+
+![tech.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1592988832329/Ai9zq8X6Y.png)
+
 Well. This is more than enough to get you started. If you liked this collection, share it with your friends. let everyone know about these Github repositories. 
 
 I keep writing about the things I learned and applied. So you can connect with me on [Twitter](https://twitter.com/WankhadeRutik), [Github](https://github.com/rutikwankhade)  or [Linkedin](https://www.linkedin.com/in/rutik-wankhade).
