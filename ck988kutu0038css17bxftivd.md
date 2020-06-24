@@ -212,6 +212,10 @@ When used as object properties, functions are called methods.
 ## Conclusion
 So we learned what are functions, how to call them, the difference between parameters and arguments, different ways we can define functions, how hoisting and function scope works in JavaScript. And I hope you got a nice idea about functions in JavaScript.
 
-I keep writing about the things I learned. So you can connect with me on [Twitter](https://twitter.com/WankhadeRutik), [Github](https://github.com/rutikwankhade)  or [Linkedin](https://www.linkedin.com/in/rutik-wankhade).
+I keep writing about the things I learned and applied. So you can connect with me on [Twitter](https://twitter.com/WankhadeRutik), [Github](https://github.com/rutikwankhade)  or [Linkedin](https://www.linkedin.com/in/rutik-wankhade).
 
 ⚡ Happy learning!
+
+
+
+
