@@ -1,15 +1,13 @@
 ## Github repositories every aspiring developer should check out
 
-
-
-Starting your career in web development can be overwhelming. And most of the times beginners struggle to pick resources and learn. There are tons of great resources available online and most of which we are not even aware of.
+Starting your career in web development can be overwhelming. And most of the time beginners struggle to pick resources and learn. There are tons of great resources available online and most of which we are not even aware of.
 
 *The most important lesson I learned *
 
 %[https://twitter.com/WankhadeRutik/status/1207317518580359169]
 
 
-📑 Here is a list of some awesome github repositories with tons of resources collected together for you.
+📑 Here is a list of some awesome GitHub repositories with tons of resources collected together for you.
  So Pick something and start learning. 
 
 ### 📌 Freecodecamp 
@@ -18,7 +16,7 @@ A self-paced curriculum for learning full-stack development. Its freeCodeCamp.or
 ![22.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1583665169318/OQak0KH2I.png)
 
 ### 📌 developer-roadmap 
-A set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. The complete developer roadmap . [visit repository](https://github.com/kamranahmedse/developer-roadmap)
+A set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend, or DevOps. The complete developer roadmap. [visit repository](https://github.com/kamranahmedse/developer-roadmap)
 
 ![1.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1583664043130/oqSVxVTcv.png)
 
@@ -33,17 +31,17 @@ These are some really helpful sites you should definitely check.  you must know 
 ![23.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1583665729854/T5xcexDIL.png)
 
 ### 📌 awesome 
-The name itself suggests its awesome. You can find curated list of all kinds of interesting topics. [visit repository](https://github.com/sindresorhus/awesome)
+The name itself suggests its awesome. You can find a curated list of all kinds of interesting topics. [visit repository](https://github.com/sindresorhus/awesome)
 
 ![awesome.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1583666265281/HFcB7f5CP.png)
 
 ### 📌 professional-programming 
-The goal of this repository is to make you a more proficient developer. You'll find only resources that  are truly inspiring, or that have become timeless classics. [visit repository](https://github.com/charlax/professional-programming)
+The goal of this repository is to make you a more proficient developer. You'll find only resources that are truly inspiring, or that have become timeless classics. [visit repository](https://github.com/charlax/professional-programming)
 
 ![pf.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1583671914170/2MgELEhMq.png)
 
 ### 📌 free-for-dev  
-Developers have a massive amount of services offering free tiers, but it can be hard to find them all . This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers. [visit repository](https://github.com/ripienaar/free-for-dev)
+Developers have a massive amount of services offering free tiers, but it can be hard to find them all. This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers. [visit repository](https://github.com/ripienaar/free-for-dev)
 
 ![freedev.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1583667698613/98khisufv.png)
 
@@ -63,7 +61,7 @@ This repository has practical content that covers all phases of a technical inte
 ![techinter.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1583678473461/Ma75PfM0W.png)
 
 ### 📌 coding-interview-university  
-This is a study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company. The items listed here will prepare you well for a technical interview at just about any software company. [visit repository](https://github.com/jwasham/coding-interview-university)
+This is a study plan for going from a web developer (self-taught, no CS degree) to software engineer for a large company. The items listed here will prepare you well for a technical interview at just about any software company. [visit repository](https://github.com/jwasham/coding-interview-university)
 
 ![25.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1583667172838/-K1f7W7VZ.png)
 
@@ -102,12 +100,11 @@ A collective list of free APIs for use in software and web development.  [visit 
 
 ![api.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1583677525710/2qqTY-VUe.png)
 
-Well. This is more than enough to get you started. If you liked this collection, share it with your friends. let everyone know about these github repositories. 
+Well. This is more than enough to get you started. If you liked this collection, share it with your friends. let everyone know about these Github repositories. 
 
-You can connect me here on [Linkedin](https://www.linkedin.com/in/rutik-wankhade) and [Github](https://github.com/rutikwankhade)
-or visit my portfolio [here](https://rutikw.now.sh)
+I keep writing about the things I learned and applied. So you can connect with me on [Twitter](https://twitter.com/WankhadeRutik), [Github](https://github.com/rutikwankhade)  or [Linkedin](https://www.linkedin.com/in/rutik-wankhade).
 
-⚡ Happy learning !
+⚡ Happy learning!
 
 
 
