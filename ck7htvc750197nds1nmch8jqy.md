@@ -18,6 +18,7 @@ To be honest I am writing this for myself. These are my notes. If I feel like wr
 ### 2. 👨‍🏫 Learn by explaining
 > **The ultimate test of your knowledge is your capacity to convey it to another.  -Richard Feynman
 **
+
 It is obvious that one has to do a lot of research in the process of writing a blog, and by doing so I am gonna learn a hell lot of things by studying different topics in depth. 
 
 ### 3. 🚀 Giving back to the community
