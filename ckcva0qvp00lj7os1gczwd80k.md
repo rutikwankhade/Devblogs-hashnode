@@ -13,7 +13,7 @@ We will be discussing the superpowers of using the command line, why you should 
 
 ![giphy (1).gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1593190717812/9bbfmLu8e.gif)
 
-## What is command-line interface?
+## What is the command-line interface?
 Command-line Interface (CLI) 💻 is a text-based interface used to interact with software and operating system by typing commands into the interface and receive a response in the same way. 
 
 It is a program that allows users to type text commands instructing the computer to do specific tasks. The command-line interface is the original way of talking to our machine. Don't get confused with the terms command line and terminal. They are often used interchangeably to indicate a text-based interface for navigating your operating system. Command-line is very windows centric terminology, whereas the terminal is very mac centric.
@@ -66,7 +66,7 @@ npm install whatever-thing
 ``` 
 NPM does not have a GUI. Every package has to be installed via npm command.
 ### 📌 starting up a server
-If you are using some framework or library or creating something with frontend as well as backend, You will need command line to start a server.
+If you are using some framework or library or creating something with frontend as well as backend, You will need a command line to start a server.
 For example, while using create-react-app we need to do
 
 ```
@@ -75,12 +75,6 @@ npm start
 
 
 - and more.
-
-
-
-
-
-
 
 ## 📕 Basic commands you should know
 There are hundreds of different commands that can be used in a command line. And we will be discussing a few of them.
@@ -111,8 +105,8 @@ cd command is known as change directory command. It is used to change the curren
 
 Here I changed to the app directory. You can check using pwd command. It will give the path of a new directory now. i.e.  /c/Users/Rutik/Desktop/dev/app
 
-### Move to parent directory
-There is another version of cd command. cd .. command is used to move to the parent directory of the current directory, or the directory one level up from the current directory. “..” represents parent directory.
+### Move to the parent directory
+There is another version of the cd command. cd .. command is used to move to the parent directory of the current directory, or the directory one level up from the current directory. “..” represents parent directory.
 
 
 ![4 parent.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1595210408741/jpbJKDg3q.gif)
@@ -129,7 +123,7 @@ Here we created a new folder named icons in the dev folder.
 ![Screenshot (313).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595212929406/RlaC-aQXc.png)
 
 ### Creating a new file
-touch command is used to create a file without any content. The file created using touch command is empty. The syntax is [ touch file_name ]. For windows the command is a bit different. Its [copy nul file_name].
+touch command is used to create a file without any content. The file created using touch command is empty. The syntax is [ touch file_name ]. For windows, the command is a bit different. Its [copy nul file_name].
 
 ![new touch.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1595214062977/Yt2fnbq5S.gif)
 
@@ -138,7 +132,7 @@ We created a new index.html file in the dev folder.
 ![Screenshot (315).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595214175736/KDV87ybCn.png)
 
 ### Open file in browser
-To open a file in the browser we simply use start command. It's syntax is [ start file_name ]. For windows, it's the same command.  Depending on the file type, it will open in the respective program. Here It will open index.html file in the default browser.
+To open a file in the browser we simply use the start command. It's syntax is [ start file_name ]. For windows, it's the same command.  Depending on the file type, it will open in the respective program. Here It will open index.html file in the default browser.
 
 
 ![start start.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1595217011884/ygrOc9TGG.gif)
@@ -175,10 +169,6 @@ The use of tab will help you speed up typing commands. Just hit Tab while typing
 Using the up and down arrow keys, you can recall previously-entered commands to the command line.
 
 ![use arrow.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1595222058193/nYUXp1zLe.gif)
-
-
-
-
 
 
 ### Running a program
