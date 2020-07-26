@@ -297,7 +297,7 @@ And we are done. congratulations. We built a random quote generator while learni
 So the quote generator is ready. Also if you wish, you can add some more features of your own like tweeting the quote or something like that.
 
 You can find the complete repository of the code on [Github](https://github.com/rutikwankhade/Random-Quote).                                    
-Also, you can see it [live](https://random-quotesforu.netlify.com/) here.
+Also, you can see it [live](https://randomquot.now.sh) here.
 I hope you had fun while doing this and learned a few things along the way.
 Well for me this process of building things helps me a lot while learning.
 
