@@ -30,7 +30,7 @@ The first step is to create a UI. Here is our index.html file look like
     <div class="content">
         <div class="card">
           <h2>Random quote</h2>
-          <p>wanna see a random quote ?</p>
+          <p>Do you want a random quote ?</p>
           <!--button to display random quote-->
           <button class="btn">Generate</button>
 
@@ -44,48 +44,66 @@ The first step is to create a UI. Here is our index.html file look like
 </html>
 ```
 
-![Screenshot (238).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1585025931498/AIvbN-aiu.png)
+
+![Screenshot (323).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595760398366/mU3voUA6A.png)
 
 And this is how it looks like in the browser. Wait a minute, It doesn't look nice right. 
 ## 2. Styling the content
 Let's make it appealing by adding our style.css file
 
 ```css
-body{background-color: indigo;  margin:auto;}
-h2{background-color: #1c1c1c; color:#ffffff;
-padding:10px;
-font-family: arial;
-text-align: center;}
+body {background-color: #8c1aff;}
 
-.btn{height:50px; width:150px;
-font-size: 18px;
-color:#ffffff;
-background-color: dodgerblue;
-border:none;
-padding:5px;
-border-radius: 5px;}
+.content{
+    max-width: 600px;
+    padding:20px;
+    margin:auto;
+    justify-content: center;
+    align-items: center;}
 
-.card{padding:15px 30px 15px 30px;
-margin:40px auto;
-max-width:500px;
-max-height:300px;
-text-align: center;
-background-color: #ffffff;
-border-radius: 5px;
-} 
+h2 {
+    background-color: #4a4be7;
+    color:#ffffff;
+    padding:10px;
+    font-family: arial;
+    text-align: center;
+    border-radius:5px;
+    box-shadow: 4px 4px #ee9be4;}
 
-p{font-family:'Segoe UI';
-font-weight:400;
-font-size: 20px;}
+.btn{
+    height:50px;
+    width:150px;
+    font-size: 18px;
+    color:#ffffff;
+    background-color: #ee9be4;
+    box-shadow: 4px 4px #4a4be7;
+    padding:5px;
+    border-radius: 5px;}
 
-img{height:25px;
-width:25px;
-}
+.card{
+    padding:15px 30px 15px 30px;
+    max-width:500px;
+    max-height:300px;
+    text-align: center;
+    background-color: #f2e6ff;
+    border-radius: 5px;
+    border-top: #ee9be4 5px;
+    margin-top: 20px;} 
+button:focus {outline: none;}
+
+p{
+  font-family:Segoe UI;
+  font-size: 20px;}
+
+img{
+height:25px;
+width:25px;}
+
 ```
 And boom ! this looks great now.
 
 
-![Screenshot (240).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1585027409630/ZG-vq7LdP.png)
+![1.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595759820885/j1Q6r809Z.png)
 
 Now let's think about how we are going to make it work. We need to figure out a way to display random quotes after clicking a button. And We will go with the simplest way to do it. How? let's see.
 
@@ -270,7 +288,8 @@ let btn=document.querySelector('.btn');
 btn.addEventListener('click', displayQuote);
 
 ```
-![Screenshot (248).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1585072651093/2_UBWoiXG.png)
+
+![2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595760154761/5sHFnGCE2.png)
 
 And we are done. congratulations. We built a random quote generator while learning some JavaScript concepts.
 
