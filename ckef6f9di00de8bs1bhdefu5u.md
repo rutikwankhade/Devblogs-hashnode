@@ -52,6 +52,11 @@ Then I improved it little by little and added some more features. Here are a few
 
 ![iconsupdate.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1598293116537/qBAzD1ZOE.gif)
 
+- *Update *: I saw a lot of people using it but they weren't using nice colors. So I handpicked some appealing color palettes which go well together and now you can choose random color themes on just one click.
+
+
+![randomTheme.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1599370050923/ciKSE7wl8.gif)
+
 - 💾 Download cover images in `.png` as well as `.jpeg` format
 
 I just had a lot of fun making this. You might not be able to create a lot more creative images But having a nice cover is always better than having some random image or no cover image at all.
