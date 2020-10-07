@@ -92,7 +92,7 @@ class Blogposts extends React.Component {
 
 ![console.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1601970344901/AutOLIkdu.png)
 
-Yay! We got the perfect response. It's an array of objects where each object has a title, slug, brief description, and cover image of a post. 
+✨ Yay! We got the perfect response. It's an array of objects where each object has a title, slug, brief description, and cover image of a post. 
 
 
 ### Rendering the posts
