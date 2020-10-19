@@ -1,4 +1,4 @@
-## Adding  Hashnode blogs on your portfolio with react and Hashnode API
+## Adding your blogs on a portfolio with react and Hashnode API
 
 Hashnode is one of the best blogging platform ever built. Seriously it has all the features one would ever wish and that too with an eye-appealing user interface. The 👩‍💻 **devblog** is one of the best features of hashnode for reasons like
 
