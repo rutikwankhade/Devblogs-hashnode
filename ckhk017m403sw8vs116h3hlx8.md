@@ -1,4 +1,4 @@
-## Week 2: A brief about JavaScript basics, clean code, and unit testing
+## Week 2: A brief about JavaScript, clean code, and unit testing
 
  👋 Hey everyone. Welcome back. 
 
