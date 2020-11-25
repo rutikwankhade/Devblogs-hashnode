@@ -10,7 +10,7 @@ Tutorials are great but they don't provide a deeper understanding of the languag
 
 ![screenshot (67).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1605794885239/gJ4hCTT1h.png)
 
-Its first edition is free to read on [GitHub](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md). And I would highly recommend for anyone who wants to deeply understand JavaScript.
+Its first edition is free to read on [GitHub](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md). And I would highly recommend for anyone who wants to deeply understand JavaScript. Not recommended for complete begineers.
 
 ### ⚛ ES6 and react
 If you have spent enough time with JavaScript and want to jump straight to learning react, Wait. Have you learned about ES6? Because If you haven't, you might want to change your mind. Let's see why.
