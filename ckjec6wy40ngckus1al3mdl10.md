@@ -36,7 +36,7 @@ I am no designer, but I feel I have a good taste in design. I looked for inspira
 ### 🌊The challenges
 The biggest challenge was turning a react app into a chrome extension. The problem comes when react creates multiple chunks of js files in the production build by default. And it violates the CSP (*Content Security Policy*) of the chrome extension. 
 
-I was stuck. I thought I won't be able to fix this. I spent the next few days looking for a way to make it work. Eventually, I tried everything I find. Creating a  `.env` file with `INLINE_RUNTIME_CHUNK=false` worked but it wasn't the best solution. Finally, I found another way by configuring the craco. I am glad **I didn't give up.**
+I was stuck. I thought I won't be able to fix this. I spent the next few days looking for a way to make it work. Eventually, I tried everything I could find. Creating a  `.env` file with `INLINE_RUNTIME_CHUNK=false` worked but it wasn't the best solution. Finally, I found another way by configuring the craco. I am glad **I didn't give up.**
 
 ### 📦 The final product
 I am very happy with the final outcome. This is exactly what I wanted to build. Here are a few cool features of [Tabwave](https://tabwave.vercel.app).
@@ -82,7 +82,7 @@ Wait, I have good news too. You can try it right now. I have deployed its web ve
 
 
 ### Wrapping up
-This has been a great experience for me. The excitement of building something I always wanted to build was priceless. I can't explain how joyful I felt after fixing that nasty bug or completing that small feature. It's so satisfying. Sometimes it got frustrating, but eventually, I somehow ended up solving the problem. 
+This has been a great experience for me. The excitement of building something I always wanted to build was awesome. I can't explain how joyful I felt after fixing that nasty bug or completing that small feature. It's so satisfying. Sometimes it got frustrating, but eventually, I somehow ended up solving the problem. 
 
 It's not just about coding. It's about problem-solving. The more you do it, The better you become. I have always believed in learning by building and I will encourage you to do the same.
 
