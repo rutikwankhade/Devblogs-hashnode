@@ -28,7 +28,9 @@ I am no designer, but I feel I have a good taste in design. I looked for inspira
 - Improve its UI to give it an aesthetic look.
 - Repeat
 
-
+#### Technologies used
+- React
+- Tailwindcss
 
 
 ### 🌊The challenges
