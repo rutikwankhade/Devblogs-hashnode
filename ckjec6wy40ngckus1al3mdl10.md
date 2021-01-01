@@ -71,7 +71,6 @@ I am very happy with the final outcome. This is exactly what I wanted to build. 
 ![activity-tabwave.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1609507028333/jyhJQTW7C.gif)
 
 
-### 😓 Bad news
 Unfortunately due to certain issues in my international transaction, I wasn't able to publish it in time on the chrome web store. So it will take some time to get it published. I will let you know when it's live. 
 
 > 
