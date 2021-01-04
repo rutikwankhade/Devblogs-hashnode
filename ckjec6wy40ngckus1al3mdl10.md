@@ -79,6 +79,11 @@ Unfortunately due to certain issues in my international transaction, I wasn't ab
 ### 🤩 Good news
 Wait, I have good news too. You can try it right now. I have deployed its web version at **[tabwave.now.sh](https://tabwave.now.sh)**. So go try it and let me know your feedback. Also, feel free to reach out with your ideas and suggestions.
 
+### 🎉 Update
+The Tabwave extension is now available on firefox. 
+> 
+You can download it from [here](https://addons.mozilla.org/en-US/firefox/addon/tabwave/).  
+
 
 ### Wrapping up
 This has been a great experience for me. The excitement of building something I always wanted to build was awesome. I can't explain how joyful I felt after fixing that nasty bug or completing that small feature. It's so satisfying. Sometimes it got frustrating, but eventually, I somehow ended up solving the problem. 
