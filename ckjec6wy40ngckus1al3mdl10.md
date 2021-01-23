@@ -70,19 +70,17 @@ I am very happy with the final outcome. This is exactly what I wanted to build. 
 
 ![activity-tabwave.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1609507028333/jyhJQTW7C.gif)
 
+- Did somebody say dark mode?
 
-Unfortunately due to certain issues in my international transaction, I wasn't able to publish it in time on the chrome web store. So it will take some time to get it published. I will let you know when it's live. 
+
+![frame_chrome_mac_dark (5).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1611390056038/x7NsqTwx5.png)
+
+### 🤩 Excited to try it
+I have deployed its web version at **[tabwave.now.sh](https://tabwave.now.sh)**. So you can try without installing it at all. And if you love it, then only install it. Sounds okay! It's available on both Chrome and Firefox browsers. 
+
 
 > 
-*Subscribe [here](https://tabwave.vercel.app) to get notified.*
-
-### 🤩 Good news
-Wait, I have good news too. You can try it right now. I have deployed its web version at **[tabwave.now.sh](https://tabwave.now.sh)**. So go try it and let me know your feedback. Also, feel free to reach out with your ideas and suggestions.
-
-### 🎉 Update
-The Tabwave extension is now available on firefox. 
-> 
-You can download it from [here](https://addons.mozilla.org/en-US/firefox/addon/tabwave/).  
+Install Tabwave on [Chrome](https://chrome.google.com/webstore/detail/tabwave/kilclhheeidneiiiaeggbadgommkdhbc) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tabwave/).  
 
 
 ### Wrapping up
