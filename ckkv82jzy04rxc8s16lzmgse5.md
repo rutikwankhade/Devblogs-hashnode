@@ -41,8 +41,16 @@ For the layout, I divided the screen into two parts. One for navigation and anot
 #### Colors
 I tried to be consistent with the colors and used colors that complement each other. Also, made it super clean and intuitive.
 
+### Screenshots
 
-![Untitled design (15).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1612704251973/o1pWdy9EZ.png)
+![devspace.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1612791874769/w8gxy7bT7.png)
+
+
+![devspace (1).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1612791901745/ur77edDl2.png)
+
+![devspace (2).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1612791914469/cKQWDclDU.png)
+
+
 
 ### 👩‍💻 Technologies used
 - React 
@@ -67,6 +75,7 @@ I keep writing about the things I learned and applied. So you can connect with m
 ⚡ Happy learning!
 
 %%[substack]
+
 
 
 
