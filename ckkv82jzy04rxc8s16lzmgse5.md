@@ -1,6 +1,6 @@
 ## devspace : get top posts from the best developer platforms
 
-After an awesome experience with Hashnode *ChristmasHackathon*, Hashnode announced a new hackathon in partnership with Vercel. This time it was a 3 week-long hackathon. I wanted to build a full-stack app this time, but I didn't know a thing about how the backend works, so I started learning it.
+After an awesome experience with Hashnode ***ChristmasHackathon***, Hashnode announced a new hackathon in partnership with Vercel. This time it was a 3 week-long hackathon. I wanted to build a full-stack app this time, but I didn't know a thing about how the backend works, so I started learning it.
 
 More than 2 weeks passed and I didn't even start working on the project. Everything was new and a bit intimidating and I couldn't build it in time.
 
@@ -29,7 +29,6 @@ The app is deployed on Vercel and the code is open-sourced on Github.
 See live : https://devspace.vercel.app/  
 Github :  https://github.com/rutikwankhade/devspace
 
-> 
 
 ### 📰 UI/UX
 Even though it was a small app, creating a basic design prototype is always a plus. It helps to move in the right direction. I used
@@ -70,7 +69,7 @@ APIs of Hashnode, Dev, and Product Hunt was easy to use and implement. But Githu
 - Few blog posts didn't have a cover image, so I used [Lorem Picsum's API](https://picsum.photos/) to set random images for default.
 
 ### ✨ Conclusion
-I built this in a very short period of time and still made it look good and useful, at least for me. That's an achievement! So this is my submission for the [VercelHashnode](https://hashnode.com/n/vercelhashnode) Hackathon. 🙌 Cheers!
+I built this in a very short period of time and still made it look good and useful, at least for me. That's an achievement! So this is my submission for the **#VercelHashnode** Hackathon. 🙌 Cheers!
 
 I keep writing about the things I learned and applied. So you can connect with me on [Twitter](https://twitter.com/WankhadeRutik), [Github](https://github.com/rutikwankhade)  or [Linkedin](https://www.linkedin.com/in/rutik-wankhade). Also, subscribe to my newsletter and stay up-to-date with my latest blog posts.
 
