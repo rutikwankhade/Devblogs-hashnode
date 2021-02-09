@@ -20,7 +20,8 @@ Wait, what if I build something so that I won't need to search and switch tabs f
 ### 🚀 Introducing devspace
 Get top posts from the best developer platforms in one place.
 
-%[https://www.canva.com/design/DAEVdIsMXFA/view]
+%[https://youtu.be/83dKsOsx4as]
+
 
 The app is deployed on Vercel and the code is open-sourced on Github.
 
