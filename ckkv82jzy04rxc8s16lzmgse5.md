@@ -25,8 +25,9 @@ Get top posts from the best developer platforms in one place.
 
 The app is deployed on Vercel and the code is open-sourced on Github.
 
-> 
-**See live : https://devspace.vercel.app/**  and code [here](https://github.com/rutikwankhade/devspace).
+ ### Demo
+See live : https://devspace.vercel.app/  
+Github :  https://github.com/rutikwankhade/devspace
 
 > 
 
