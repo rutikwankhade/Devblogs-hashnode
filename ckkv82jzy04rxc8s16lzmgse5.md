@@ -4,6 +4,8 @@ After an awesome experience with Hashnode ***ChristmasHackathon***, Hashnode ann
 
 More than 2 weeks passed and I didn't even start working on the project. Everything was new and a bit intimidating and I couldn't build it in time.
 
+
+> 
 But I still wanted to participate!
 So I decided to pivot at the last moment and come up with something else. I was running out of both ideas and time. What should I build? a recipe app? a movie app? Nope. It had to be something that would be useful for me in my life.
 
