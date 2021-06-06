@@ -140,3 +140,4 @@ I keep writing about the things I learned and applied. So you can connect with m
 
 ⚡ Happy learning!
 
+%%[substack]
