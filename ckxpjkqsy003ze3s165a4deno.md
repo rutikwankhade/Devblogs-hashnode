@@ -73,7 +73,7 @@ _____________
 
 
 ## The review form
-I curated a few good questions to reflect on the year. But If I kept all those questions on a single page, it would have looked like a tedious task to fill it and one might even just leave it. So to make things interesting I decided to make it a **multi-step** form. 
+I curated a few good questions from multiple resources to reflect on the year. But If I kept all those questions on a single page, it would have looked like a tedious task to fill it and one might even just leave it. So to make things interesting I decided to make it a **multi-step** form. I broke those questions into small steps.
 
 First I tried a few npm packages to do it, but couldn't style it accordingly, so I ended up building it on my own. 
 
