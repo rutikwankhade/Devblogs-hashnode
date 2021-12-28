@@ -25,6 +25,8 @@ ____________________
 
 ## Next.js + Supabase
 
+I was already blown away by all the built-in features Next.js provides like file-system based routing and server-side rendering.
+
 The next step was to choose a database. I was hearing a lot about Supabase lately and wanted to give it a try. [**Supabase**](https://supabase.com/) is an open-source Firebase alternative. It provides all the backend services you need to build a product. And I am impressed with how quickly I was able to make the MVP. 
 
 
