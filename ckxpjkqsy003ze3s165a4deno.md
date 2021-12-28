@@ -115,6 +115,10 @@ And that's it for today. Try it yourself, create your review for the year 2021 a
 
 %[https://www.producthunt.com/posts/my-year-in-review]
 
+
+%[https://twitter.com/WankhadeRutik/status/1475765928142852097?s=20]
+
+
 _______________________
 
 ### References
