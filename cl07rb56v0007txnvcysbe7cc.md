@@ -1,11 +1,11 @@
-## Introducing glimpse, a reader's corner to discover new books.
+## Introducing glimpse, a reader's corner to discover new books
 
 Are you an avid reader? Do you wish to have an online catalog of the books you read and want to read? Do you feel that the readers deserve a better alternative to GoodReads? one with a good user experience? Well, Your wish is granted!
 
 Introducing Glimpse, a reader's corner to discover new books.
 
 ## Motivation
-Reading is one of the few things that I really enjoy outside work life. I read a lot. I mean when Emilia Clarke once quoted ''My father always told me — Never trust anyone whose TV is bigger than their bookshelf",
+Reading is one of the few things that I enjoy outside work life. I read a lot. I mean when Emilia Clarke once quoted ''My father always told me — Never trust anyone whose TV is bigger than their bookshelf",
 I agreed. 
 
 ![My bookshelf.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646110277176/dTcpJ044o.png)
@@ -28,7 +28,7 @@ Code : [Frontend](https://github.com/rutikwankhade/glimpse) / [Backend](https://
 
 ## 🎨 The process
 
-I spent a lot of time exploring how I can build this app before writing the first line of code. I planned the roadmap, tasks, and everything on the notion. This workflow really helped me to track my progress.
+I spent a lot of time exploring how I can build this app before writing the first line of code. I planned the roadmap, tasks, and everything on the notion. This workflow helped me to track my progress.
 
 ![roadmap.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646112991639/j9jz8EXDt.png)
 
@@ -45,12 +45,12 @@ I had to make lots of decisions around the user interface and the overall user e
 ### Technologies used
 - Next.js - to build frontend
 - TailwindCSS - for styling the app
-- Express and Node.js - for setting up server
+- Express and Node.js - for setting up the server
 - MongoDB - database
-- headles UI - for built-in components
+- headless UI - for built-in components
 
 ### Deployment on Netlify
-I hosted almost every app I built on netlify when I started coding. I was a beginner and netlify had a really smooth, beginner-friendly experience of deploying sites. So I focused on building the app and letting netlify take care of it.
+I hosted almost every app I built on netlify when I started coding. I was a beginner and netlify had a smooth, beginner-friendly experience of deploying sites. So I focused on building the app and letting netlify take care of it.
 
 
 
@@ -68,9 +68,9 @@ Here are a few cool features of [Glimpse](https://glimpseapp.netlify.app).
 
 - Share glimpse of the books you read and liked. Share your thoughts and favorite quotes with glimpse.
 
-- Create your library by adding books to the collection as currently reading, want to read and read.
+- Create your library by adding books to the collection as currently reading, want to read, and read.
 
-- Create your own glimpse profile that you can share with your friends.
+- Create your glimpse profile that you can share with your friends.
 
 - Follow other readers and get suggestions from them.
 
