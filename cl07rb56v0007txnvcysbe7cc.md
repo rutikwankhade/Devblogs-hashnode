@@ -4,7 +4,7 @@ Are you an avid reader? Do you wish to have an online catalog of the books you r
 
 Introducing Glimpse, a reader's corner to discover new books.
 
-## Motivation
+## 🏃 Motivation
 Reading is one of the few things that I enjoy outside work life. I read a lot. I mean when Emilia Clarke once quoted ''My father always told me — Never trust anyone whose TV is bigger than their bookshelf",
 I agreed. 
 
@@ -42,14 +42,14 @@ I had to make lots of decisions around the user interface and the overall user e
 - To make the user profile more personalized, I used Cloudinary to store the images.
 
 
-### Technologies used
+### 🛠️ Technologies used
 - Next.js - to build frontend
 - TailwindCSS - for styling the app
 - Express and Node.js - for setting up the server
 - MongoDB - database
 - headless UI - for built-in components
 
-### Deployment on Netlify
+### 🚀 Deployment on Netlify
 I hosted almost every app I built on netlify when I started coding. I was a beginner and netlify had a smooth, beginner-friendly experience of deploying sites. So I focused on building the app and letting netlify take care of it.
 
 
@@ -77,7 +77,7 @@ Here are a few cool features of [Glimpse](https://glimpseapp.netlify.app).
 
 
 
-### Wrapping up
+## ✨ Wrapping up
 I am so happy I could finish this project in time. I was 🤌 this close to giving up on this. Glad that I didn't.  Glimpse has been my passion project for a long time. And this hackathon has pushed me to finally build and ship it. I know there is a lot of room for improvements and features. And I will keep working on it.
 
 This is my submission for the [#netlifyhackathon](https://hashnode.com/n/netlifyhackathon)
