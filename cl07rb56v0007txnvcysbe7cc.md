@@ -34,7 +34,7 @@ I spent a lot of time exploring how I can build this app before writing the firs
 
 I had to make lots of decisions around the user interface and the overall user experience. Sometimes had to get back to the whiteboard and rethink the whole user flow. But It was exciting and getting better on each iteration.
 
-### 🛠️ The challenges
+###  👾 The challenges
 
 - The google books API has its limits. It gives 1000 API calls per day for an IP address. Searching every time user types could have ended up with the limit exceeding. So I used debouncing technique to limit API requests.
 
@@ -42,14 +42,14 @@ I had to make lots of decisions around the user interface and the overall user e
 - To make the user profile more personalized, I used Cloudinary to store the images.
 
 
-### 🛠️ Technologies used
+###  🛠️ Technologies used
 - Next.js - to build frontend
 - TailwindCSS - for styling the app
 - Express and Node.js - for setting up the server
 - MongoDB - database
 - headless UI - for built-in components
 
-### 🚀 Deployment on Netlify
+###  🚀 Deployment on Netlify
 I hosted almost every app I built on netlify when I started coding. I was a beginner and netlify had a smooth, beginner-friendly experience of deploying sites. So I focused on building the app and letting netlify take care of it.
 
 
