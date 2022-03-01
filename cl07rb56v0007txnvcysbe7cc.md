@@ -2,21 +2,21 @@
 
 Are you an avid reader? Do you wish to have an online catalog of the books you read and want to read? Do you feel that the readers deserve a better alternative to GoodReads? one with a good user experience? Well, Your wish is granted!
 
-Introducing Glimpse, a reader's corner to discover new books.
+Introducing **Glimpse**, a reader's corner to discover new books.
 
 ## 🏃 Motivation
-Reading is one of the few things that I enjoy outside work life. I read a lot. I mean when Emilia Clarke once quoted ''My father always told me — Never trust anyone whose TV is bigger than their bookshelf",
+Reading is one of the few things that I enjoy outside work life. I read a lot. I mean when Emilia Clarke once quoted ''*My father always told me — Never trust anyone whose TV is bigger than their bookshelf*",
 I agreed. 
 
 ![My bookshelf.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646110277176/dTcpJ044o.png)
 
 
-And I wanted to have that online catalog of books, I wanted to talk about the books I read. I once tried GoodReads and never opened it again because of its bad user experience. I mean it's 2022!
+And I wanted to have that online catalog of books, I wanted to talk about the books I read. I once tried GoodReads and never opened it again because of its bad user experience. *I mean it's 2022!*
 
 
-> For almost a decade, GoodReads has been the dominant platform for readers to discover and rate books. But many of the internet’s most dedicated readers now wish they could share their enthusiasm for books elsewhere.
+> For almost a decade, *GoodReads* has been the dominant platform for readers to discover and rate books. But many of the internet’s most dedicated readers now wish they could share their enthusiasm for books elsewhere.
 
-I know, there have been built alternatives. My goal was not to try to solve the engineering problem but the user experience problem. So I was more focused on the execution, rather than the idea. I wanted to build my version of this side project.
+I know, there have been built alternatives. My goal was not to try to solve the engineering problem but the **user experience** problem. So I was more focused on the execution, rather than the idea. I wanted to build my own version of this side project.
 
 And here it is.
 
@@ -36,7 +36,7 @@ I had to make lots of decisions around the user interface and the overall user e
 
 ###  👾 The challenges
 
-- The google books API has its limits. It gives 1000 API calls per day for an IP address. Searching every time user types could have ended up with the limit exceeding. So I used debouncing technique to limit API requests.
+- The google books API has its limits. It gives 1000 API calls per day for an IP address. Searching every time user types could have ended up with the limit exceeding. So I used **debouncing** technique to limit API requests.
 
 - The book API doesn't always give the right response. sometimes, it does not have the properties requested. So I had to handle it on the client-side.
 - To make the user profile more personalized, I used Cloudinary to store the images.
@@ -44,13 +44,14 @@ I had to make lots of decisions around the user interface and the overall user e
 
 ###  🛠️ Technologies used
 - Next.js - to build frontend
+- Redux toolkit - for state management
 - TailwindCSS - for styling the app
 - Express and Node.js - for setting up the server
 - MongoDB - database
 - headless UI - for built-in components
 
 ###  🚀 Deployment on Netlify
-I hosted almost every app I built on netlify when I started coding. I was a beginner and netlify had a smooth, beginner-friendly experience of deploying sites. So I focused on building the app and letting netlify take care of it.
+I hosted almost every app I built on [**netlify**](https://www.netlify.com/) when I started coding. I was a beginner and netlify had a smooth, beginner-friendly experience of deploying sites. So I focused on building the app and letting netlify take care of it.
 
 
 
@@ -58,7 +59,8 @@ I hosted almost every app I built on netlify when I started coding. I was a begi
 
 ## 📦 The final product
 oh wait, did I forget to mention why the name glimpse?
-glimpse means a quick idea or understanding of what something is like. 
+
+**glimpse means a quick idea or understanding of what something is like**. 
 
 Here are a few cool features of [Glimpse](https://glimpseapp.netlify.app).
 
