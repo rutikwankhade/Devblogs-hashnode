@@ -64,15 +64,21 @@ Here are a few cool features of [Glimpse](https://glimpseapp.netlify.app).
 
 - Quick search for books by name or author
 
+![search1.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1646117713979/P71r3uNJr.gif)
+
 - Find books based on categories
+
+![tags.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1646117981601/7DWqT-QqF.gif)
 
 - Share glimpse of the books you read and liked. Share your thoughts and favorite quotes with glimpse.
 
+
 - Create your library by adding books to the collection as currently reading, want to read, and read.
 
-- Create your glimpse profile that you can share with your friends.
+![profile.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1646118384972/8lMDFHfNo.gif)
 
-- Follow other readers and get suggestions from them.
+
+
 
 
 
