@@ -10,11 +10,13 @@ I agreed.
 
 ![My bookshelf.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646110277176/dTcpJ044o.png)
 
+Over the years I have read books from the genres of fiction, nonfiction, self-help, and more other stuff that interests me. Those books have inspired and helped me become the person I am today.
 
-And I wanted to have that online catalog of books, I wanted to talk about the books I read. I once tried GoodReads and never opened it again because of its bad user experience. *I mean it's 2022!*
-
+##  💡Problem statement
 
 > For almost a decade, *GoodReads* has been the dominant platform for readers to discover and rate books. But many of the internet’s most dedicated readers now wish they could share their enthusiasm for books elsewhere.
+
+And I wanted to have that online catalog of books, I wanted to talk about the books I read. I once tried GoodReads and never opened it again because of its bad user experience. *I mean it's 2022!*
 
 I know, there have been built alternatives. My goal was not to try to solve the engineering problem but the **user experience** problem. So I was more focused on the execution, rather than the idea. I wanted to build my own version of this side project.
 
@@ -39,7 +41,8 @@ I had to make lots of decisions around the user interface and the overall user e
 - The google books API has its limits. It gives 1000 API calls per day for an IP address. Searching every time user types could have ended up with the limit exceeding. So I used **debouncing** technique to limit API requests.
 
 - The book API doesn't always give the right response. sometimes, it does not have the properties requested. So I had to handle it on the client-side.
-- To make the user profile more personalized, I used Cloudinary to store the images.
+- To make the user profile more personalized, I used `Cloudinary` to store the images.
+- As the app became bigger, it got hard to maintain the state. I have used redux before but it felt like writing too much boilerplate code. But the good thing I learned about `redux-toolkit` which is a much more clean and better way to manage the state than the old way of using redux.
 
 
 ###  🛠️ Technologies used
@@ -51,44 +54,46 @@ I had to make lots of decisions around the user interface and the overall user e
 - headless UI - for built-in components
 
 ###  🚀 Deployment on Netlify
-I hosted almost every app I built on [**netlify**](https://www.netlify.com/) when I started coding. I was a beginner and netlify had a smooth, beginner-friendly experience of deploying sites. So I focused on building the app and letting netlify take care of it.
-
-
-
+I hosted almost every app I built on [**netlify**](https://www.netlify.com/) when I started coding. I was a beginner and netlify had a smooth, beginner-friendly experience of deploying sites. So I focused more on building the app and letting netlify take care of the deployment.
 
 
 ## 📦 The final product
 oh wait, did I forget to mention why the name glimpse?
 
 **glimpse means a quick idea or understanding of what something is like**. 
+(or just a fancy word for review 😅)
 
 Here are a few cool features of [Glimpse](https://glimpseapp.netlify.app).
 
-- Quick search for books by name or author
-
-![search1.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1646117713979/P71r3uNJr.gif)
-
-- Find books based on categories
-
-![112.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646120893272/IqYuc9bAW.png)
+- Instant search for books from the database of thousands of books. You can either search by book name or the author's name.
 
 
-- Share glimpse of the books you read and liked. Share your thoughts and favorite quotes with glimpse.
+![searchfeature.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646236397937/4TY1K0p0d.png)
+
+- Find books based on different categories like fiction, nonfiction, business, technology, and more.
 
 
+![categories.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646236168516/a5oDGYVh2.png)
+
+- Share glimpse of the books you read and liked in one click.  Talk about your thoughts, favorite quotes, and favorite things with glimpse.
+
+
+![review.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646234927901/w1uVRFt6Z.png)
+
+- Follow other readers and get a glimpse feed based on your following. You might find the next book you want to read right here.
 ![111.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646120749766/Y4Vyg0EFZ.png)
 
-- Create your library by adding books to the collection as currently reading, want to read, and read.
+- Add books to your collection as currently reading, want to read, and read.
 
 
+![save2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646235737658/DL7qRL3e-.png)
+- Create your own online library and manage your books with ease.
 ![113.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646121031052/nNEoVeTX4.png)
 
 
 
+### 👀 What's next
 
-
-
-## ✨ Wrapping up
 I am so happy I could finish this project in time. I was 🤌 this close to giving up on this. Glad that I didn't.  Glimpse has been my passion project for a long time. And this hackathon has pushed me to finally build and ship it. I know there is a lot of room for improvements and features. And I will keep working on it.
 
 This is my submission for the [#netlifyhackathon](https://hashnode.com/n/netlifyhackathon)
