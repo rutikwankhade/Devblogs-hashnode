@@ -93,7 +93,7 @@ Here are a few cool features of [Glimpse](https://glimpseapp.netlify.app).
 - Create your own online library and manage your books with ease.
 ![113.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646121031052/nNEoVeTX4.png)
 
-
+I have seen a lot of people having a collection of books they read in their portfolios. This could be one of the use cases for glimpse. Just create your profile and add it on your portfolio.
 
 ### 👀 What's next
 
