@@ -22,6 +22,9 @@ I know, there have been built alternatives. My goal was not to try to solve the 
 
 And here it is.
 
+
+![glimpseapp.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646288650475/lyuFhlgiy.png)
+
 Live : [https://glimpseapp.netlify.app/](https://glimpseapp.netlify.app/)
 
 Code : [Frontend](https://github.com/rutikwankhade/glimpse) / [Backend](https://github.com/rutikwankhade/glimpse-backend)
