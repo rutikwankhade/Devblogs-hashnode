@@ -41,7 +41,7 @@ I had to make lots of decisions around the user interface and the overall user e
 
 ###  👾 The challenges
 
-- The google books API has its limits. It gives 1000 API calls per day for an IP address. Searching every time user types could have ended up with the limit exceeding. So I used **debouncing** technique to limit API requests.
+- The google books API has its limits. It gives 1000 API calls per day for an IP address. Searching every time user types could have ended up with the limit exceeding. So I used the **debouncing** technique to limit API requests.
 
 - The book API doesn't always give the right response. sometimes, it does not have the properties requested. So I had to handle it on the client-side.
 - To make the user profile more personalized, I used `Cloudinary` to store the images.
@@ -93,7 +93,9 @@ Here are a few cool features of [Glimpse](https://glimpseapp.netlify.app).
 - Create your own online library and manage your books with ease.
 ![113.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646121031052/nNEoVeTX4.png)
 
-I have seen a lot of people having a collection of books they read in their portfolios. This could be one of the use cases for glimpse. Just create your profile and add it on your portfolio.
+I have seen a lot of people having a collection of books they read in their portfolios. This could be one of the use cases for glimpse. Just create your profile and add it to your portfolio.
+
+You can check out my profile [here](https://glimpseapp.netlify.app/profile/62185ec259dc133d1a0080e3).
 
 ### 👀 What's next
 
