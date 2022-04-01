@@ -19,8 +19,7 @@ Okay, we got it Rutik, enough with the story. How is it relative here?
 
 So a few months back I actually built a bucket list app for myself. I was trying out different tech stacks and thought of building **[bucket](https://bucket.vercel.app)**, an app to create and track my bucket lists again. But this time digitally. Now I do realize every other side project I built is somehow a solution for my own real problems.
 
-
-![bucketlistapp.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1648736632242/ThzddNRs9.png)
+![bucketapp demo.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1648808601392/MS3xz2fOY.png)
 
 It was nothing complex. Just a simple todo like app disguised as a bucket list app. It's built with React, TailwindCSS, and Firebase.
 
@@ -86,7 +85,6 @@ Code:  [https://github.com/rutikwankhade/bucketlist-api-playground](https://gith
 Here comes the good part. Now I integrated this bucket list API in my side project that suggests different bucket list ideas based on different categories.
 
 ![bucket-explore-ideas.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1648741117760/ArPHrjjYw.png)
-
 
 ![list.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1648741141533/bC3UeLaDF.png)
 
