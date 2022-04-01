@@ -17,7 +17,7 @@ So I created my own bucket list which had around 20 things. And I am so glad tha
 ## 👀 So what's the deal?
 Okay, we got it Rutik, enough with the story. How is it relative here? 
 
-So a few months back I actually built a bucket list app for myself. I was trying out different tech stacks and thought of building bucket, an app to create and track my bucket lists again. But this time digitally. Now I do realize every other side project I built is somehow a solution for my own real problems.
+So a few months back I actually built a bucket list app for myself. I was trying out different tech stacks and thought of building **[bucket](https://bucket.vercel.app)**, an app to create and track my bucket lists again. But this time digitally. Now I do realize every other side project I built is somehow a solution for my own real problems.
 
 
 ![bucketlistapp.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1648736632242/ThzddNRs9.png)
@@ -34,17 +34,17 @@ So one weekend I started learning about Hasura and GraphQL. I have used GraphQL 
 
 ![Hasura.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1648738228698/d0QAJk11Z.png)
 
-Hasura is an open-source project that connects your databases and instantly gives you a production-ready GraphQL API. It really does what it says. While the main idea of GraphQL is to POST a "query" to an HTTP endpoint, instead of hitting different HTTP endpoints for different resources.
+[Hasura](https://hasura.io/) is an open-source project that connects your databases and instantly gives you a production-ready GraphQL API. It really does what it says. While the main idea of [GraphQL](https://graphql.org/) is to POST a `query` to an HTTP endpoint, instead of hitting different HTTP endpoints for different resources.
 
-I loved how It takes no time to get started. You don't have to go through hours of tutorials to build something with Hasura. To be honest, building APIs with Hasura seems like magic.
+I loved how It takes no time to get started. You don't have to go through hours of tutorials to build something with Hasura. To be honest, building APIs with Hasura seems like ✨ magic.
 
 
 ## 🤖 Building the API
-- After signing up for the Hasura Cloud, created a new project for building API. We can either connect an existing database or create a new one. I created a new Postgres database by connecting with Heroku. 
+- After signing up for the Hasura Cloud, created a new project for building API. We can either connect an existing database or create a new one. I created a new Postgres database by connecting with **Heroku**. 
 
 ![database.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1648739756972/v1k9OnUMd.png)
 
-- Now the first step was to create a table by adding the required columns. For the bucket list API, I added id, idea, and category columns respectively.
+- Now the first step was to create a table by adding the required columns. For the bucket list API, I added `id`, `idea`, and `category` columns respectively.
 
 
 ![table-craetion.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1648740139405/ISUaUXzzq.png)
@@ -96,4 +96,4 @@ You can try it out here [https://bucket.vercel.app/explore-ideas](https://bucket
 
 
 ## ✨ Wrapping up
-It was fun implementing this simple application in my side project. I am definitely going to learn more about GraphQL and Hasura after this. This is my submission for the > [Hasura Hackathon](https://hashnode.com/n/hasurahackathon). See you next time.
+It was fun implementing this simple application in my side project. I am definitely going to learn more about GraphQL and Hasura after this. This is my submission for the [Hasura Hackathon](https://hashnode.com/n/hasurahackathon). See you next time.
