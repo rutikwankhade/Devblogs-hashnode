@@ -55,7 +55,7 @@ The second approach was to let everyone see the content and requires login only 
 I implemented this approach and added analytics on site to see how it performs. After 6-8 hours of the launch (on Reddit and Producthunt) and 1k+ page views, I realized only 1-2% of the visiting users are interacting with the app. Why bother signing up when you can see the posts right? And that was the problem. In the initial phase, the app needed ideas to be submitted or voted on. The main goal was to crowdsource ideas and not just the views. So I switched to the next approach.
 
 #### 3. Need to sign up
-Now users will need to signup to see all the posts or vote for them. I compared the data and I saw a good (10-15%) improvement in the interaction. I was using Nextjs so next-auth was an obvious choice for me. I only kept google login to make it quick.
+Now users will need to signup to see all the posts or vote for them. I compared the data and I saw a good (10-15%) improvement in the interaction. After enough ideas get added on site I can switch to the previous approach. I was using Nextjs so next-auth was an obvious choice for me. I only kept google login to make it quick.
 
 ### 🪄 Planetscale and Prisma
 PlanetScale being the most scalable MySQL platform was my obvious database choice. Tagging along with Prisma made it a perfect combination.
