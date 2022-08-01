@@ -92,7 +92,7 @@ You can see all the half-baked ideas shared by a user on their profile.
 
 shows login popup when user reacts copywriting takes less than so they make the decision
 
-### 🔗 Links
+## 🔗 Links
 - Demo : [https://halfbakedideas.vercel.app](https://halfbakedideas.vercal.app)
 - Github: [https://github.com/rutikwankhade/halfbakedideas](https://github.com/rutikwankhade/halfbakedideas)
 
