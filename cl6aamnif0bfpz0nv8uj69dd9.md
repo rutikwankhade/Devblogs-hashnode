@@ -40,8 +40,6 @@ While writing about the copy on the landing page, I wanted to try something diff
 I used Nextjs for building and TailwindCSS along with headlessUI for styling the app.
 
 
-// mobile mockup screenshots
-
 ![hero.webp](https://cdn.hashnode.com/res/hashnode/image/upload/v1659326200371/9ViBmBN3r.webp align="left")
 
 ### ✅ Authentication
@@ -71,6 +69,11 @@ It introduced me to Prisma (ORM) (object-relational mapper) which I used to crea
 
 
 ## 👀 How does it work?
+
+#### Sharing ideas
+Users can share their half-baked ideas. I know it's hard to come up with ideas, so added a few tips on the side.
+
+![brandbird (15).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659349735781/G5hP02YnP.png align="left")
 
 #### Upvoting ideas
 I considered two ways to validate the half-baked ideas. If someone builds a product out of this half-baked idea, would you use it? or would you pay for it to use? This way makers can get validated ideas and won't end up building something no one would use.
