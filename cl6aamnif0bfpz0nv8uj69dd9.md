@@ -10,16 +10,12 @@ Well, this little conversation with Joe (my imaginary friend who is always hungr
 
 ![halfbaked.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659295683677/sk5-jd0aM.png align="center")
 
-Like when I thought, what if I could replace my browser's new tab with a productivity app, I built tabwave. What if I could reduce the hefty process of designing cover images and make it quick and easy, Coverview was born. 
+Like when I thought, what if I could replace my browser's new tab with a productivity app, I built [Tabwave](https://tabwave.app). What if I could reduce the hefty process of designing cover images and make it quick and easy, [Coverview](https://coverview.vercel.app) was born. 
 
 You see the pattern right?
 
 
-use script from the conference talk
-
-
-
-## The idea of half baked idea
+## 💡 The idea of half baked idea
 
 - When makers build products they usually launch them on a product hunt. But what if we could validate the idea before you spend hours building it?
 
@@ -33,21 +29,22 @@ And so I decided to build an app where we can share our half-baked ideas and vot
 ![hero.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1659320079922/rrNSQbt9K.gif align="center")
 
 
-## The baking/ making process
+## 🍪 The baking/ making process
 
 Once I decided on the idea it was time to bake it. While building the app, I made various decisions on the approach or the tools I used which I will talk about as we move forward.
 
-### Explain like I am 5
+### 👶 Explain like I am 5
 While writing about the copy on the landing page, I wanted to try something different. So I started writing it like users are talking to me and I am explaining it to them. This gave me an idea of making up Joe (yup, the same one we talked with earlier). So I made it like I am explaining to Joe what's this app about like he is 5.
 
-### The user interface
+### 🎨 The user interface
 I used Nextjs for building and TailwindCSS along with headlessUI for styling the app.
 
 
 // mobile mockup screenshots
 
 ![hero.webp](https://cdn.hashnode.com/res/hashnode/image/upload/v1659326200371/9ViBmBN3r.webp align="left")
-### Authentication
+
+### ✅ Authentication
 I tried three different approaches for this one. 
 #### 1. No account needed
 The app was focusing on crowdsourcing the data, so I thought not to make users log in or signup. Anyone can come up and shoot their ideas. 
@@ -62,7 +59,7 @@ I implemented this approach and added analytics on site to see how it performs. 
 #### 3. Need to sign up
 Now users will need to signup to see all the posts or vote for them. I compared the data and I saw a good (10-15%) improvement in the interaction. I was using Nextjs so next-auth was an obvious choice for me. I only kept google login to make it quick.
 
-### Planetscale and Prisma
+### 🪄 Planetscale and Prisma
 PlanetScale being the most scalable MySQL platform was my obvious database choice. Tagging along with Prisma made it a perfect combination.
 
 ![+sds.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659327147405/_GPCOCmsv.png align="left")
@@ -73,7 +70,7 @@ and 10 million row writes/mo which is pretty great for your hobby projects. Also
 It introduced me to Prisma (ORM) (object-relational mapper) which I used to create schema and send queries to the database.
 
 
-## How does it work?
+## 👀 How does it work?
 
 #### Upvoting ideas
 I considered two ways to validate the half-baked ideas. If someone builds a product out of this half-baked idea, would you use it? or would you pay for it to use? This way makers can get validated ideas and won't end up building something no one would use.
@@ -95,11 +92,11 @@ You can see all the half-baked ideas shared by a user on their profile.
 
 shows login popup when user reacts copywriting takes less than so they make the decision
 
-### Links
+### 🔗 Links
 - Demo : [https://halfbakedideas.vercel.app](https://halfbakedideas.vercal.app)
 - Github: [https://github.com/rutikwankhade/halfbakedideas](https://github.com/rutikwankhade/halfbakedideas)
 
-## What's next?
+## 🔮 What's next?
 This was fun, not just the building part but writing about the whole process. It was just a half-baked idea. There is a lot more I can do to make it better. for ex. discussions. And I will continue to work on it.
 
 Also, half baked ideas is [live on Product hunt](https://www.producthunt.com/posts/half-baked-ideas) since yesterday.
