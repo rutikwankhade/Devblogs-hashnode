@@ -68,7 +68,7 @@ PlanetScale being the most scalable MySQL platform was my obvious database choic
 ![+sds.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659327147405/_GPCOCmsv.png align="left")
 
 Getting started with PlanetScale was as easy as it could be. The default free developer plan has 5 GB storage,1 billion row reads/mo
-and 10 million row writes/mo which is really great for your hobby projects. Also, I really liked the idea of branching & merging like Git at the database level.
+and 10 million row writes/mo which is pretty great for your hobby projects. Also, I liked the idea of branching & merging like Git at the database level.
 
 It introduced me to Prisma (ORM) (object-relational mapper) which I used to create schema and send queries to the database.
 
@@ -101,6 +101,8 @@ shows login popup when user reacts copywriting takes less than so they make the 
 
 ## What's next?
 This was fun, not just the building part but writing about the whole process. It was just a half-baked idea. There is a lot more I can do to make it better. for ex. discussions. And I will continue to work on it.
+
+Also, half baked ideas is [live on Product hunt](https://www.producthunt.com/posts/half-baked-ideas) since yesterday.
 
 What are you waiting for? Go visit [halfbakedideas.vercel.app](https://halfbakedideas.vercel.app) and check out cool half-baked ideas shared by the internet. And if you have one, don't forget to share it with the world.
 
