@@ -88,9 +88,11 @@ You can sort ideas based on the ✨ latest, 🙋 I would use it and 💸 take my
 You can see all the half-baked ideas shared by a user on their profile. 
 
 
-![brandbird (11).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659328924039/K9f_uqNjq.png align="left")
+![brandbird (11).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659328924039/K9f_uqNjq.png align="center")
 
-shows login popup when user reacts copywriting takes less than so they make the decision
+User profiles are public and can be accessed with a link.  So I added a popup when unauthenticated users try to react to the posts.
+
+![brandbird (14).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659333051837/bHU2cES6c.png align="center")
 
 ## 🔗 Links
 - Demo : [https://halfbakedideas.vercel.app](https://halfbakedideas.vercal.app)
