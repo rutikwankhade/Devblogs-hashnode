@@ -102,6 +102,18 @@ User profiles are public and can be accessed with a link.  So I added a popup wh
 
 *will update with stats after 48 hours*
 
+## 📈 Stats after 48 hours
+The simple idea of sharing half-baked ideas got a great response from the internet. I shared it on Reddit, Twitter and launched it on Product hunt. Here's what happened in the next 48 hours.
+
+
+![halfbakedideas-vercel-app-‒-Dashboard-‒-Pirsch-Analytics (5).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659428074717/qCI6IY2BH.png align="left")
+
+
+![ph launch.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659428939744/UTosFipa0.png align="left")
+**3.8k unique visitors** , **800+ sign-ups** and so many creative ideas!
+
+
+
 ## 🔮 What's next?
 This was fun, not just the building part but writing about the whole process. It was just a half-baked idea. There is a lot more I can do to make it better. for ex. discussions. And I will continue to work on it.
 
