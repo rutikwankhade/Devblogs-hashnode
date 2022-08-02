@@ -1,10 +1,10 @@
 ## I built an app to crowdsource  internet's best side project ideas
 
 
-If you are following me for a while you know I love building side projects. And every time I decided to build one, I didn't know how it will turn out in the end.  But one thing is for sure, it all started with a half-baked idea.
+If you are following me for a while you know I love building side projects. And every time I decided to build one, I didn't know how it will turn out in the end.  But one thing is for sure, it all started with a **half-baked idea**.
 
 half baked idea? what's that?
-Well, this little conversation with Joe (my imaginary friend who is always hungry) might add some light to it.
+Well, this little conversation with Joe (*my imaginary friend who is always hungry*) might add some light to it.
 
 
 
@@ -19,7 +19,7 @@ You see the pattern right?
 
 - When makers build products they usually launch them on a product hunt. But what if we could validate the idea before you spend hours building it?
 
-- Most of us come up with half-baked ideas but don't have the tools or time or know the tech to build them. What if we could just share the ideas with the world and let others make it?
+- Most of us come up with half-baked ideas but don't have the tools, resources, or time to build them. What if we could just share the ideas with the world and let others make it?
 
 - After participating in multiple hackathons, at some point, we are running out of ideas. What if there was a place we could get some ideas from?
 
@@ -31,19 +31,19 @@ And so I decided to build an app where we can share our half-baked ideas and vot
 
 ## 🍪 The baking/ making process
 
-Once I decided on the idea it was time to bake it. While building the app, I made various decisions on the approach or the tools I used which I will talk about as we move forward.
+Once I decided on the idea it was time to bake it. Oh sorry, make it. While building the app, I made various decisions on the approach or the tools I used which I will talk about as we move forward.
 
 ### 👶 Explain like I am 5
 While writing about the copy on the landing page, I wanted to try something different. So I started writing it like users are talking to me and I am explaining it to them. This gave me an idea of making up Joe (yup, the same one we talked with earlier). So I made it like I am explaining to Joe what's this app about like he is 5.
 
 ### 🎨 The user interface
-I used Nextjs for building and TailwindCSS along with headlessUI for styling the app.
+I used **Nextjs** for building and **TailwindCSS** along with **headlessUI** for styling the app.
 
 
 ![hero.webp](https://cdn.hashnode.com/res/hashnode/image/upload/v1659326200371/9ViBmBN3r.webp align="left")
 
 ### ✅ Authentication
-I tried three different approaches for this one. 
+I tried three different approaches for this one. Let me explain.
 #### 1. No account needed
 The app was focusing on crowdsourcing the data, so I thought not to make users log in or signup. Anyone can come up and shoot their ideas. 
 
@@ -55,15 +55,14 @@ The second approach was to let everyone see the content and requires login only 
 I implemented this approach and added analytics on site to see how it performs. After 6-8 hours of the launch (on Reddit and Producthunt) and 1k+ page views, I realized only 1-2% of the visiting users are interacting with the app. Why bother signing up when you can see the posts right? And that was the problem. In the initial phase, the app needed ideas to be submitted or voted on. The main goal was to crowdsource ideas and not just the views. So I switched to the next approach.
 
 #### 3. Need to sign up
-Now users will need to signup to see all the posts or vote for them. I compared the data and I saw a good (10-15%) improvement in the interaction. After enough ideas get added on site I can switch to the previous approach. I was using Nextjs so next-auth was an obvious choice for me. I only kept google login to make it quick.
+Users will need to signup to see all the posts or vote for them. I compared the data and I saw a good (10-15%) improvement in the interaction. After enough ideas get added on site I can switch back to the previous approach. I was using Nextjs so **next-auth** was an obvious choice for me. I only kept google login to make it quick.
 
 ### 🪄 Planetscale and Prisma
-PlanetScale being the most scalable MySQL platform was my obvious database choice. Tagging along with Prisma made it a perfect combination.
+**PlanetScale** being the *most scalable MySQL platform* was my obvious database choice. Tagging along with **Prisma** made it a perfect combination.
 
 ![+sds.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659327147405/_GPCOCmsv.png align="left")
 
-Getting started with PlanetScale was as easy as it could be. The default free developer plan has 5 GB storage,1 billion row reads/mo
-and 10 million row writes/mo which is pretty great for your hobby projects. Also, I liked the idea of branching & merging like Git at the database level.
+Getting started with PlanetScale was as easy as it could be. The default free developer plan has 5 GB storage,1 billion row reads/mo and 10 million row writes/mo which is pretty great for your hobby projects. Also, I liked the idea of branching & merging like Git at the database level.
 
 It introduced me to Prisma (ORM) (object-relational mapper) which I used to create schema and send queries to the database.
 
@@ -101,10 +100,10 @@ User profiles are public and can be accessed with a link.  So I added a popup wh
 - Demo : [https://halfbakedideas.vercel.app](https://halfbakedideas.vercel.app)
 - Github: [https://github.com/rutikwankhade/halfbakedideas](https://github.com/rutikwankhade/halfbakedideas)
 
+*will update with stats after 48 hours*
+
 ## 🔮 What's next?
 This was fun, not just the building part but writing about the whole process. It was just a half-baked idea. There is a lot more I can do to make it better. for ex. discussions. And I will continue to work on it.
-
-Also, half baked ideas is [live on Product hunt](https://www.producthunt.com/posts/half-baked-ideas) since yesterday.
 
 What are you waiting for? Go visit [halfbakedideas.vercel.app](https://halfbakedideas.vercel.app) and check out cool half-baked ideas shared by the internet. And if you have one, don't forget to share it with the world.
 
