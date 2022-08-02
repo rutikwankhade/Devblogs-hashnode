@@ -100,7 +100,7 @@ User profiles are public and can be accessed with a link.  So I added a popup wh
 - Demo : [https://halfbakedideas.vercel.app](https://halfbakedideas.vercel.app)
 - Github: [https://github.com/rutikwankhade/halfbakedideas](https://github.com/rutikwankhade/halfbakedideas)
 
-*will update with stats after 48 hours*
+*update *
 
 ## 📈 Stats after 48 hours
 The simple idea of sharing half-baked ideas got a great response from the internet. I shared it on Reddit, Twitter and launched it on Product hunt. Here's what happened in the next 48 hours.
