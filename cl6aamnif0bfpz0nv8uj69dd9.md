@@ -110,7 +110,7 @@ The simple idea of sharing half-baked ideas got a great response from the intern
 
 
 ![ph launch.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659428939744/UTosFipa0.png align="left")
-**3.8k unique visitors** , **800+ sign-ups** and so many creative ideas!
+**3.8k unique visitors** , **8k page views** , **800+ sign-ups** and so many creative ideas!
 
 
 
