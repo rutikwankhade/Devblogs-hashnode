@@ -120,7 +120,10 @@ Now, this is getting wild. 200+ half baked ideas and I am amazed by how creative
 
 ![halfbakedideas-vercel-app-‒-Dashboard-‒-Pirsch-Analytics (8).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659591229447/IR93JDRYP.png align="left")
 
+And then this happened!
 
+
+![FZT0W14WQAAee-k (1).jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1659610355815/sw_s4Teu1Q.jpg align="left")
 
 ## 🔮 What's next?
 This was fun, not just the building part but writing about the whole process. It was just a half-baked idea. There is a lot more I can do to make it better. And I am already getting feature requests from the users. for ex. discussions. I want to continue working on it.
