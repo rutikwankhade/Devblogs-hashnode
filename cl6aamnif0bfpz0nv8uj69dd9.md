@@ -100,7 +100,7 @@ User profiles are public and can be accessed with a link.  So I added a popup wh
 - Demo : [https://halfbakedideas.vercel.app](https://halfbakedideas.vercel.app)
 - Github: [https://github.com/rutikwankhade/halfbakedideas](https://github.com/rutikwankhade/halfbakedideas)
 
-*update *
+*update day 2*
 
 ## 📈 Stats after 48 hours
 The simple idea of sharing half-baked ideas got a great response from the internet. I shared it on Reddit, Twitter and launched it on Product hunt. Here's what happened in the next 48 hours.
@@ -113,9 +113,17 @@ The simple idea of sharing half-baked ideas got a great response from the intern
 **3.8k unique visitors** , **8k page views** , **800+ sign-ups** and so many creative ideas!
 
 
+*update day 4*
+
+Now, this is getting wild. 200+ half baked ideas and I am amazed by how creative people can get while coming up with ideas.
+
+
+![halfbakedideas-vercel-app-‒-Dashboard-‒-Pirsch-Analytics (8).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659591229447/IR93JDRYP.png align="left")
+
+
 
 ## 🔮 What's next?
-This was fun, not just the building part but writing about the whole process. It was just a half-baked idea. There is a lot more I can do to make it better. for ex. discussions. And I will continue to work on it.
+This was fun, not just the building part but writing about the whole process. It was just a half-baked idea. There is a lot more I can do to make it better. And I am already getting feature requests from the users. for ex. discussions. I want to continue working on it.
 
 What are you waiting for? Go visit [halfbakedideas.vercel.app](https://halfbakedideas.vercel.app) and check out cool half-baked ideas shared by the internet. And if you have one, don't forget to share it with the world.
 
