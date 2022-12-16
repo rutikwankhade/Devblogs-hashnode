@@ -20,7 +20,11 @@ To understand SSR well, let's have a quick look at Client side rendering first.
 
 ![csr-111.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1663608674025/UDP5Penqe.png align="center")
 
-If you ever used react before, you might have noticed how the initial HTML file does not have any content other than a root `div`. That's because React does the rendering on the client side. Once the bundled Js file is downloaded, it renders the website in the browser.
+If you ever used react before, you might have noticed that the HTML file does not have any content other than a root `div`.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671173052823/n2qw2hBwd.png align="center")
+
+That's because React does the rendering on the client side. Once the bundled Js file is downloaded, it renders the website in the browser.
 
 But as the application grows, the JavaScript required tends to grow as well resulting in more load time. Although, these can be fixed with techniques like code splitting and lazy loading. SSR solves this problem. Server-side rendering is a tool that can help you load your websites faster.
 
@@ -68,7 +72,6 @@ So when it comes to what should I choose, it mostly depends on the use case that
 
 *   [https://developer.mozilla.org/en-US/docs/Web/Performance/How\_browsers\_work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
     
-
 *   [https://web.dev/rendering-on-the-web/](https://web.dev/rendering-on-the-web/)
     
 *   [https://developer.mozilla.org/en-US/docs/Learn/Server-side/First\_steps/Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
