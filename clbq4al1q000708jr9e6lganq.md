@@ -20,7 +20,7 @@ To understand SSR well, let's have a quick look at Client side rendering first.
 
 ![csr-111.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1663608674025/UDP5Penqe.png align="center")
 
-If you ever used react before, you might have noticed that the HTML file does not have any content other than a root `div`.
+If you ever used react before, you might have noticed that the HTML file does not have any other content than a root `div`.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671173052823/n2qw2hBwd.png align="center")
 
