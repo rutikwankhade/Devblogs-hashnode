@@ -68,6 +68,8 @@ Also fixed a lot of bugs. The new Tabwave has a slick design, smooth animations,
 
 👉 [https://tabwave.app](https://tabwave.app)
 
+> Note: *If you had already installed tabwave before, it might have been disabled because of chrome’s new policy. You can go to* ***chrome://extensions/*** *and enable it. or* ***reinstall it*** *to use the new version.*
+
 ---
 
 ### **You can help me create Tabwave better**
