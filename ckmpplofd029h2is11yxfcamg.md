@@ -1,4 +1,4 @@
-## Don't strive for perfection, strive for progress.
+# Don't strive for perfection, strive for progress.
 
 👋 Hi everyone, last week I was invited to be a part of the *"Discover One Amazing Creator Everyday"* series by **[Anshu Shandilya](https://twitter.com/ashandilya64)**. Recently he started a challenge in which he interacts and shares the stories of creators, what they have done and are doing currently.
 
