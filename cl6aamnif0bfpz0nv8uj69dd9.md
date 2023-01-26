@@ -1,4 +1,4 @@
-## I built an app to crowdsource  internet's best side project ideas
+# I built an app to crowdsource  internet's best side project ideas
 
 
 If you are following me for a while you know I love building side projects. And every time I decided to build one, I didn't know how it will turn out in the end.  But one thing is for sure, it all started with a **half-baked idea**.
