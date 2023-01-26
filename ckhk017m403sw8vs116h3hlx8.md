@@ -1,4 +1,4 @@
-## A brief about JavaScript, clean code, and unit testing
+# A brief about JavaScript, clean code, and unit testing
 
  👋 Hey everyone. Welcome back. 
 
