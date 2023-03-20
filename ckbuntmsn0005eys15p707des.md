@@ -1,4 +1,12 @@
-## When frontend devs meet free APIs
+---
+title: "When frontend devs meet free APIs"
+datePublished: Thu Jun 25 2020 10:44:46 GMT+0000 (Coordinated Universal Time)
+cuid: ckbuntmsn0005eys15p707des
+slug: when-frontend-devs-meet-free-apis
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679292446526/2537a95e-7018-4eff-8dd8-fc39f034b138.png
+tags: javascript, frontend, apis, side-project, web-api
+
+---
 
 Have you ever struggled to get ideas for your side projects? Are you looking to make something other than the same old todo apps? If yes, then you are in the right place, my friend. Welcome to the world of APIs where I will help you to get awesome ideas for your next side project. 
 
