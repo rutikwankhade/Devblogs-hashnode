@@ -1,4 +1,13 @@
-## Myhal: Celebrate your small wins and embrace failures
+---
+title: "Myhal: Celebrate your small wins and embrace failures"
+seoTitle: "Myhal: Celebrate your small wins and embrace failures"
+datePublished: Fri Jul 30 2021 06:59:44 GMT+0000 (Coordinated Universal Time)
+cuid: ckrpzwzig08bczcs17eevehnw
+slug: myhal-celebrate-your-small-wins-and-embrace-failures
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679291983425/4bb6115c-cbf6-4489-9d38-c2bb7b0c05fd.png
+tags: side-project, clerkhackathon, clerkdev
+
+---
 
 👋 Hi everyone, so this is the 4th hackathon I am participating. And I am not surprised to see how much progress I have made in the last six months because of these hackathons.  I can ship products now. I learned how to learn. I achieved some small milestones, made tons of mistakes, and failed a lot. 
 
