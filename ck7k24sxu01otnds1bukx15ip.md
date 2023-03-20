@@ -1,4 +1,12 @@
-## Github repositories every aspiring developer should check out
+---
+title: "Github repositories every aspiring developer should check out"
+datePublished: Mon Mar 09 2020 06:00:20 GMT+0000 (Coordinated Universal Time)
+cuid: ck7k24sxu01otnds1bukx15ip
+slug: github-repositories-every-aspiring-developer-should-check-out
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679292363604/52b883ea-bb41-4438-9985-650a81184c53.png
+tags: javascript, resources, developers, computer-science
+
+---
 
 Starting your career in web development can be overwhelming. And most of the time beginners struggle to pick resources and learn. There are tons of great resources available online and most of which we are not even aware of. I have collected some of the best repositories in my bookmarks. 
 
