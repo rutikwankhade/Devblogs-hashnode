@@ -45,7 +45,7 @@ Once it was deployed, I enabled the headless mode in my blog dashboard on Hashno
 
 ![Did You See How Fast That Was Shane Luis GIF - Did You See How Fast That Was Shane Luis Rerez GIFs](https://media.tenor.com/LjZCITZUTGsAAAAd/did-you-see-how-fast-that-was-shane-luis.gif align="left")
 
-### Step 1: Personalize the blog
+### Step 2: Personalize the blog
 
 At this stage, the blog is live and running. It was mind-blowing to see it didn't even took me more than half an hour to set it up. Now that the blog is ready, it is time to customize it.
 
