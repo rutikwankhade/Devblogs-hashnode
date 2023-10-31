@@ -3,7 +3,7 @@ title: "Building a blog with the powers of headless hashnode"
 datePublished: Tue Oct 31 2023 05:20:07 GMT+0000 (Coordinated Universal Time)
 cuid: clodvqxlv001c09l0h8h174ca
 slug: building-a-blog-with-the-powers-of-headless-hashnode
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698729561439/0a06e327-4623-4373-ab22-107f1db9a5e8.avif
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698730025885/db45fd7c-a09d-4e47-803d-c7fb54024a7d.png
 tags: headlesshashnode, headlesschallenge
 
 ---
